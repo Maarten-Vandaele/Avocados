@@ -19,4 +19,8 @@ Which leaves only 1 percent unaccounted for. ;)
 
 ### Maja's comments
 
+Good excercise, much learned. At some point I felt like I was left to Google for help, but later on we were successfully co-working on each others code issues. We combined our ideas, explored them in chat. There was space to communicate about workflow and applications. Even now we're still exchanging on how we can make the code and the graphs work better. On the whole it was an interesting and enjoyable collaboration.
+
 ## Results
+
+Our results are visible in the single output notebook. We made in total four line plots, a bar chart and a pie chart, choosing data and visualization methods that may reveal something meaningful about the chosen dataset.
