@@ -50,7 +50,7 @@ Which leaves only 1 percent unaccounted for. ;)
 
 ### Maja's comments
 
-Good excercise, much learned. At some point I felt like I was left to Google for help, but later on we were successfully co-working on each others code issues. We combined our ideas, explored them in chat. There was space to communicate about workflow and applications. Even now we're still exchanging on how we can make the code and the graphs work better. On the whole it was an interesting and enjoyable collaboration.
+Good excercise, much learned. At some point I felt like I was left to Google for help, but later on we were successfully co-working on each others code issues. We combined our ideas, explored them in chat. There was space to communicate about workflow and applications. Even now we're still exchanging on how we can make the code and the graphs work better. On the whole it was an interesting and enjoyable collaboration. One point of feedback is I would have wanted to make our choices more data-driven, instead of the rather random selection now.
 
 ## Results
 
