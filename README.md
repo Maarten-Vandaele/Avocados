@@ -10,7 +10,7 @@ This dataset includes information on the sale and production of avocados in vari
 
 ### Why?
 
--[] todo: Maarten, can you comment on this?
+- [ ] todo: Maarten, can you comment on this?
 
 ### How?
 
@@ -26,11 +26,11 @@ A fair bit of talk went into discovering just how closely to work together. This
 
 ## To Do
 
--[x] Make some basic plots about average price and total volume over time and per region.
--[] Figure out how to combine multiple columns
--[] Make a 3D plot
--[] Add text sections between the graphic plots to introduce and clarify them
--[] Update this readme file with a "why?" section
+- [x] Make some basic plots about average price and total volume over time and per region.
+- [ ] Figure out how to combine multiple columns
+- [ ] Make a 3D plot
+- [ ] Add text sections between the graphic plots to introduce and clarify them
+- [ ] Update this readme file with a "why?" section
 
 ## Workflow and cooperation
 1. Going over more theory while peeking at the datasets on tuesday.
