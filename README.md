@@ -2,6 +2,10 @@
 
 ## About
 
+### Data source
+
+https://www.kaggle.com/rishpande/avocado-prices-data-visualization-beginner
+
 ### What?
 
 We had selected some datasets from Kaggle to choose from. Maarten suggested a dataset on Avocados, Maja one on world happiness. We went with the one on avocados.
